@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Python, planning to learnc C++ in the near future.
 - 💞️ I’m looking to collaborate on nothing at the moment.
 - 📫 How to reach me:
-      E-mail: lilspikeyc@gmail.com
+      E-mail: cullenhwalsh@gmail.com
       Discord: CHill#1740
 
 <!---
