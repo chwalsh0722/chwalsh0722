@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @chwalsh0722.
-- 👀 I’m interested in exploring different programming fields.
-- 🌱 I’m currently learning Python, planning to learnc C++ in the near future.
+- 👀 I’m interested in exploring different programming fields and expanding my programming knowledge.
+- 🌱 I’m currently exploring C++ and its capabilities.
 - 💞️ I’m looking to collaborate on nothing at the moment.
 - 📫 How to reach me:
       E-mail: cullenhwalsh@gmail.com
